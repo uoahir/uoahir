@@ -1,5 +1,3 @@
-//![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=JIYEON's%20Git&fontSize=90)
-
 <div align=center>
   <h1>Hello, I'm Jiyeon 🤓 </h1>
 </div>
