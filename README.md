@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=JIYEON's%20Git&fontSize=90)
 
-
+<div align = center>
 🖥️ 현재 공부 중인 백엔드 주니어 개발자입니다.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,7 +8,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+</div>
 <!---
 uoahir/uoahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
