@@ -9,7 +9,6 @@
 🖥️ 현재 공부 중인 백엔드 주니어 개발자입니다.
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uoahir&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 uoahir/uoahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
