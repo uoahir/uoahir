@@ -8,7 +8,7 @@
 <div align = center>
 🖥️ 현재 공부 중인 백엔드 주니어 개발자입니다.
 </div>
-<br><br>
+<br><br><br>
 
 <div align= "center"> 
 <!--     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>   -->
