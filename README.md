@@ -45,6 +45,6 @@
   <h2> 🏅 Stats </h2>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=uoahir&bg_color=180,ffffff,00000000&title_color=716a6a&text_color=716a6a"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uoahir)](https://github.com/uoahir/github-readme-stats)    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uoahir&layout=compact&bg_color=180,ffffff,00000000&title_color=716a6a&text_color=716a6a"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uoahir)](https://github.com/uoahir/uoahir)    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uoahir&layout=compact&bg_color=180,ffffff,00000000&title_color=716a6a&text_color=716a6a"/>
   </div>
 </div>
