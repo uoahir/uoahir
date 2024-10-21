@@ -43,7 +43,7 @@
 
 <div align="center">
   <h2> 🏅 Stats </h2>
-  <div style="display:inline-flex">
+  <div style="display:inline-flex; gap: 10px;">
     <div>
       <img src="https://github-readme-stats.vercel.app/api?username=uoahir&bg_color=180,ffffff,00000000&title_color=716a6a&text_color=716a6a"/>
     </div>
