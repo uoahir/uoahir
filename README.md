@@ -48,7 +48,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uoahir&layout=compact&bg_color=180,ffffff,00000000&title_color=716a6a&text_color=716a6a"/>
   </div>
 </div>
-<div>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uoahir&langs_count=10&layout=compact)](https://github.com/uoahir)    
-</div>
