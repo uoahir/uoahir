@@ -44,7 +44,7 @@
 <div align="center">
   <h2> 🏅 Stats </h2>
   <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=uoahir&bg_color=180,ffffff,00000000&title_color=716a6a&text_color=716a6a" height="305" width = "400"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uoahir&layout=compact&bg_color=180,ffffff,00000000&title_color=716a6a&text_color=716a6a" height="300" width = "400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=uoahir&bg_color=180,ffffff,00000000&title_color=716a6a&text_color=716a6a" height="305" width = "300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uoahir&layout=compact&bg_color=180,ffffff,00000000&title_color=716a6a&text_color=716a6a" height="300" width = "200"/>
   </div>
 </div>
