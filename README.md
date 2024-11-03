@@ -38,8 +38,12 @@
     <a href="mailto:choco6815@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
+    <a href="https://velog.io/@uoahir"> <!-- 여기에 실제 밸로그 주소로 변경 -->
+      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+    </a>
   </div>
 </div>
+
 
 <div align="center">
   <h2> 🏅 Stats </h2>
