@@ -3,13 +3,9 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/uoahir"
-  width="600"
-  height="300"
-/>
-</a>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuoahir&count_bg=%23EBC7EA&title_bg=%23BCBBB3&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
 </div>
 <br>
 <div align="center">
