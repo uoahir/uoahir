@@ -14,13 +14,15 @@
 <br>
 <br>
 <div align="center">
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/uoahir"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/uoahir?pet-id=645881382712894392"
+    width="120"
+    height="143"
+  />
 </a>
+  
 </div>
 
 <br><br><br>
