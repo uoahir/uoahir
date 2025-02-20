@@ -26,7 +26,7 @@ Jiyeon _
 <br>
 <br>
 <div> 
-  <h4>Tech Stacks</h4> 
+  <h3>Tech Stacks</h3> 
   <br>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -48,7 +48,7 @@ Jiyeon _
 </div>
 <br/>
 <div>
-  <h4>Contact me </h4>
+  <h3>Contact Me </h3>
   <br>
    
   <div>
