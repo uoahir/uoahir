@@ -16,6 +16,15 @@
 </a>
 
 </div>-->
+
+<h2 style="color: #2c3e50; font-size: 2.5rem; text-align: center; font-weight: bold;">
+Delay _
+</h2>
+<strong style="font-size: 1.5rem; color: #8e44ad; text-align: center; display: block;">
+  💻Junior Developer
+</strong>
+<br>
+<br>
 <div> 
   <h4>Tech Stacks</h4> 
   <br>
