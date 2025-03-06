@@ -52,9 +52,6 @@ Jiyeon _ Kim _
   <br>
    
   <div>
-      <a href="https://www.instagram.com/uoahir/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-      </a>
       <a href="mailto:choco6815@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
       </a>
