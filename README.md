@@ -61,6 +61,13 @@ Jiyeon _ Kim _
   </div>
 </div>
 
+<br/>
+<br/>
+<div>
+  <h3>Certificate</h3>
+  <b>정보처리기사(2025.06)</b>
+</div>
+
 <!--
 <div>
   <h4>Stats </h4>
